@@ -1,9 +1,9 @@
 # Function-Overriding-in-C-OOPS-in-C-language-
-## This is an example to implement Function Overriding in C Programming Language. 
+## This is an example to implement Polymorphism through Function Overriding in C Programming Language. 
 
 
 ###### As we know C is not an Object oriented programming language. But we can implement some of the OOPS features in C program by using `structures` and `pointers`.
-###### This is an attempt to implement Function overriding feature in C language.
+###### This is an attempt to implement Polymorphism feature through Function Overriding in C language.
 
 - Animal class is parent class of Duck and Cat class.
 - animal_p file contains private definition of animal class.
